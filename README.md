@@ -1,5 +1,9 @@
 # 🏡 Sleepyz(슬리피즈) 소개
 > 자취를 시작할 때 필요한 침구류를 한 번에 구매할 수 있는 쇼핑몰
+
+<br>
+
+## 0. 프로젝트 진행 단계
 ![image](https://github.com/9woody5/Sleepyz/assets/102839522/28132d5b-1fdd-4e46-99d9-7b90a5151fcf)
 
 <br>
